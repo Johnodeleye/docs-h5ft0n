@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-27dx31.juragan89.online/sitemap.xml
